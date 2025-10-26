@@ -13,7 +13,7 @@
 
 ### 🧮 SQL Customer Analysis  
 Advanced SQL project analyzing customer behavior and KPIs using joins, window functions, and CTEs.  
-📂 [View Project](https://github.com/YoussefMSakr/SQL-Customer-Analysis)
+📂 [View Project](https://github.com/YoussefMSakr/Customer-Report
 
 ### 📈 Power BI Dashboard – CIB Project  
 Interactive Power BI dashboard visualizing financial metrics, growth trends, and customer segmentation.  
