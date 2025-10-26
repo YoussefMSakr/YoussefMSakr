@@ -17,7 +17,7 @@ Advanced SQL project analyzing customer behavior and KPIs using joins, window fu
 
 ### 📈 Power BI Dashboard – CIB Project  
 Interactive Power BI dashboard visualizing financial metrics, growth trends, and customer segmentation.  
-📂 [View Dashboard](https://github.com/YoussefMSakr/CIB-Project)
+📂 [View Dashboard](https://github.com/YoussefMSakr/CIB-Project-Power-BI)
 
 ### 🔍 SQL EDA Project  
 Exploratory Data Analysis (EDA) using SQL — uncovering trends, correlations, and insights from raw datasets.  
