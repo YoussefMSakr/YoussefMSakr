@@ -21,7 +21,7 @@ Interactive Power BI dashboard visualizing financial metrics, growth trends, and
 
 ### 🔍 SQL EDA Project  
 Exploratory Data Analysis (EDA) using SQL — uncovering trends, correlations, and insights from raw datasets.  
-📂 [View Project](https://github.com/YoussefMSakr/SQL-EDA-Project)
+📂 [View Project](https://github.com/YoussefMSakr/SQL-EDA-Project/blob/main/SQL%20EDA%20project.sql)
 
 ---
 
