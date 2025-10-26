@@ -40,4 +40,4 @@ Currently focusing on **Business Intelligence, Data Visualization, and Data Auto
 
 ---
 
-⭐ *“Data tells a story — I just help visualize it.”*
+
