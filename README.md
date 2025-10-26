@@ -31,12 +31,6 @@ Currently focusing on **Business Intelligence, Data Visualization, and Data Auto
 
 ---
 
-## 📊 GitHub Stats  
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefMSakr&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMSakr&layout=compact&theme=tokyonight)
-
----
 
 ## 📬 Connect With Me  
 📧 **Email:** [youssseefssakr@gmail.com](mailto:youssseefssakr@gmail.com)  
