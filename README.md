@@ -40,7 +40,7 @@ Currently focusing on **Business Intelligence, Data Visualization, and Data Auto
 
 ## 📬 Connect With Me  
 📧 **Email:** [youssseefssakr@gmail.com](mailto:youssseefssakr@gmail.com)  
-💼 **LinkedIn:** [Youssef Sakr](https://www.linkedin.com/in/youssef-mohamed-36)  
+💼 **LinkedIn:** [[Youssef Sakr](https://www.linkedin.com/in/youssef-mohamed-36)](https://www.linkedin.com/in/youssef-mohamed-36bba4282)  
 🌐 **GitHub:** [YoussefMSakr](https://github.com/YoussefMSakr)
 
 ---
