@@ -4,7 +4,7 @@
 ---
 
 ## 🧰 Tools & Skills  
-💡 **SQL** · **Power BI** · **Tableau** · **Excel** · **Python (Pandas, Matplotlib)**  
+💡 **SQL** · **Power BI** · **Tableau** · **Excel** · **Python (Pandas,Numpy, Matplotlib,seaborn)**  
 📊 Data Cleaning · Data Modeling · KPI Design · Dashboard Development · Visualization  
 
 ---
