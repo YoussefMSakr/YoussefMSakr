@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Youssef Sakr  
-🎯 **Junior Data Analyst** — passionate about transforming raw data into clear insights and data-driven decisions.
+🎯 ** Data Analyst** — passionate about transforming raw data into clear insights and data-driven decisions.
 
 ---
 
