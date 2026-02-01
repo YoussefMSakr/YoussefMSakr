@@ -76,3 +76,12 @@ Advanced SQL analysis on 100K+ transaction records using CTEs, window functions,
 ---
 
 ⭐️ From [Youssef Sakr](https://github.com/YoussefMSakr)
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMSakr&show_icons=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMSakr&layout=compact)
+
+
