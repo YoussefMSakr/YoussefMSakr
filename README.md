@@ -23,14 +23,14 @@ Building scalable data pipelines and turning raw data into actionable insights.
 
 ## 🚀 Featured Projects
 
-### 🔹 [Airflow ETL Pipeline - CSV to SQL Server](https://github.com/yourusername/airflow-csv-sql-etl)
+### 🔹 [Airflow ETL Pipeline - CSV to SQL Server][(https://github.com/yourusername/airflow-csv-sql-etl)](https://github.com/YoussefMSakr/Apache-Airflow-ETL-Pipeline---CSV-to-SQL-Server)
 Production-ready ETL pipeline using Apache Airflow to automate CSV data ingestion into SQL Server with data validation and batch processing.
 
 **Tech:** Apache Airflow, Python, Pandas, SQLAlchemy, SQL Server
 
 ---
 
-### 🔹 [Python ETL - GDP Data Extraction](https://github.com/yourusername/gdp-data-etl)
+### 🔹 [Python ETL - GDP Data Extraction][(https://github.com/yourusername/gdp-data-etl)](https://github.com/YoussefMSakr/Python-ETL-Pipeline---Global-GDP-Data-Extraction-Analysis)
 End-to-end ETL pipeline extracting GDP data for 180+ countries using web scraping and transforming it into analytics-ready datasets.
 
 **Tech:** Python, BeautifulSoup, Pandas, SQLite
