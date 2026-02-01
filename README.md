@@ -77,10 +77,8 @@ Advanced SQL analysis on 100K+ transaction records using CTEs, window functions,
 
 ⭐️ From [Youssef Sakr](https://github.com/YoussefMSakr)
 
-## 🧩 Highlights
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssefmsakr&hide_border=true&height=260)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youssefmsakr&repo=airflow-etl-pipelines&hide_border=true)](https://github.com/YoussefMSakr/airflow-etl-pipelines)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=youssefmsakr&repo=etl-country-gdp-python&hide_border=true)](https://github.com/YoussefMSakr/etl-country-gdp-python)
 
 
 
