@@ -30,7 +30,7 @@ Production-ready ETL pipeline using Apache Airflow to automate CSV data ingestio
 
 ---
 
-### 🔹 [Python ETL - GDP Data Extraction][(https://github.com/yourusername/gdp-data-etl)](https://github.com/YoussefMSakr/Python-ETL-Pipeline---Global-GDP-Data-Extraction-Analysis)
+### 🔹 [Python ETL - GDP Data Extraction][(https://github.com/YoussefMSakr/Python-ETL-Pipeline---Global-GDP-Data-Extraction-Analysis)]
 End-to-end ETL pipeline extracting GDP data for 180+ countries using web scraping and transforming it into analytics-ready datasets.
 
 **Tech:** Python, BeautifulSoup, Pandas, SQLite
