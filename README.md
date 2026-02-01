@@ -1,43 +1,81 @@
-# 👋 Hi, I'm Youssef Sakr  
-🎯 ** Data Analyst** — passionate about transforming raw data into clear insights and data-driven decisions.
+# 👋 Hi, I'm Youssef Mohamed Sakr
+
+### 🎯 Junior Data Engineer | ETL | Python | SQL | Apache Airflow
+
+Building scalable data pipelines and turning raw data into actionable insights.
 
 ---
 
-## 🧰 Tools & Skills  
-💡 **SQL** · **Power BI** · **Tableau** · **Excel** · **Python (Pandas,Numpy, Matplotlib,seaborn)**  
-📊 Data Cleaning · Data Modeling · KPI Design · Dashboard Development · Visualization  
+## 🔧 Technical Skills
+
+**Data Engineering**
+- ETL Pipelines | Apache Airflow | SQL Server | Data Validation | Pipeline Automation
+
+**Programming & Tools**
+- **Languages:** Python, SQL, Bash
+- **Libraries:** Pandas, NumPy, BeautifulSoup, SQLAlchemy, Matplotlib
+- **Databases:** SQL Server, SQLite
+- **Orchestration:** Apache Airflow
+- **BI Tools:** Power BI (DAX, Data Modeling)
+- **Version Control:** Git, GitHub
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### 🧮 SQL Customer Analysis  
-Advanced SQL project analyzing customer behavior and KPIs using joins, window functions, and CTEs.  
-📂 [View Project](https://github.com/YoussefMSakr/Customer-Report)
+### 🔹 [Airflow ETL Pipeline - CSV to SQL Server](https://github.com/yourusername/airflow-csv-sql-etl)
+Production-ready ETL pipeline using Apache Airflow to automate CSV data ingestion into SQL Server with data validation and batch processing.
 
-### 📈 Power BI Dashboard – CIB Project  
-Interactive Power BI dashboard visualizing financial metrics, growth trends, and customer segmentation.  
-📂 [View Dashboard](https://github.com/YoussefMSakr/CIB-Project-Power-BI)
-
-### 🔍 SQL EDA Project  
-Exploratory Data Analysis (EDA) using SQL — uncovering trends, correlations, and insights from raw datasets.  
-📂 [View Project](https://github.com/YoussefMSakr/SQL-EDA-Project/blob/main/SQL%20EDA%20project.sql)
+**Tech:** Apache Airflow, Python, Pandas, SQLAlchemy, SQL Server
 
 ---
 
-## 🧠 About Me  
-I'm a data enthusiast with strong analytical skills and a passion for discovering patterns that drive business success.  
-Currently focusing on **Business Intelligence, Data Visualization, and Data Automation**.
+### 🔹 [Python ETL - GDP Data Extraction](https://github.com/yourusername/gdp-data-etl)
+End-to-end ETL pipeline extracting GDP data for 180+ countries using web scraping and transforming it into analytics-ready datasets.
+
+**Tech:** Python, BeautifulSoup, Pandas, SQLite
 
 ---
 
+### 🔹 [SQL Analytics - E-commerce Analysis](https://github.com/yourusername/sql-ecommerce-analytics)
+Advanced SQL analysis on 100K+ transaction records using CTEs, window functions, and complex joins to derive business insights.
 
-## 📬 Connect With Me  
-📧 **Email:** [youssseefssakr@gmail.com](mailto:youssseefssakr@gmail.com)  
-💼 **LinkedIn:** : [Youssef Mohamed](https://www.linkedin.com/in/youssef-mohamed-36bba4282)
-  
-🌐 **GitHub:** [YoussefMSakr](https://github.com/YoussefMSakr)
+**Tech:** SQL Server (SSMS), T-SQL, CTEs, Window Functions
 
 ---
 
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: yousssseefssakr@gmail.com
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 📍 Location: Cairo, Egypt
+
+---
+
+## 🎓 Certifications
+
+- ✅ ETL and Data Pipelines with Shell, Airflow and Kafka - IBM (2026)
+- ✅ Databases and SQL for Data Science - IBM (2026)
+- ✅ Python Project for Data Engineering - IBM (2025)
+- ✅ Data Analyst in Power BI - DataCamp (2025)
+
+---
+
+## 💡 Currently Learning
+
+- Data Warehouse Fundamentals
+- ☁️ AWS Cloud Services 
+- Relational Database Administration (DBA)
+
+
+---
+
+⭐️ From [Youssef Sakr](https://github.com/yourusername)
