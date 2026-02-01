@@ -80,7 +80,8 @@ Advanced SQL analysis on 100K+ transaction records using CTEs, window functions,
 
 ## 🔥 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssefmsakr)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssefmsakr&hide_border=true&area=true)
+
 
 
 
