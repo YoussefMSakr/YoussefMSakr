@@ -37,7 +37,7 @@ End-to-end ETL pipeline extracting GDP data for 180+ countries using web scrapin
 
 ---
 
-### 🔹 [SQL Analytics - E-commerce Analysis](https://github.com/yourusername/sql-ecommerce-analytics)
+### 🔹 [SQL Analytics - E-commerce Analysis]([https://github.com/yourusername/sql-ecommerce-analytics](https://github.com/YoussefMSakr/SQL-Analytics-Project-E-commerce-Sales-Customer-Analysis))
 Advanced SQL analysis on 100K+ transaction records using CTEs, window functions, and complex joins to derive business insights.
 
 **Tech:** SQL Server (SSMS), T-SQL, CTEs, Window Functions
