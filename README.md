@@ -67,11 +67,12 @@ Advanced SQL analysis on 100K+ transaction records using CTEs, window functions,
 
 ## 💡 Currently Learning
 
-- Data Warehouse Fundamentals
-- ☁️ AWS Cloud Services 
-- Relational Database Administration (DBA)
+- 🐳 Docker & Containerization
+- ☁️ AWS Data Services (S3, Glue, Redshift)
+- 📊 Data Warehousing (Dimensional Modeling)
+- 🔄 Advanced Airflow Patterns & Best Practices
 
 
 ---
 
-⭐️ From [Youssef Sakr](https://github.com/yourusername)
+⭐️ From [Youssef Sakr](https://github.com/YoussefMSakr)
