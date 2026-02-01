@@ -60,8 +60,11 @@ Advanced SQL analysis on 100K+ transaction records using CTEs, window functions,
 
 - ✅ ETL and Data Pipelines with Shell, Airflow and Kafka - IBM (2026)
 - ✅ Databases and SQL for Data Science - IBM (2026)
+- ✅ Hands-on Introduction to Linux Commands and Shell IBM (2026)
+- ✅ Python for Data Science, AI & Development
 - ✅ Python Project for Data Engineering - IBM (2025)
 - ✅ Data Analyst in Power BI - DataCamp (2025)
+  
 
 ---
 
