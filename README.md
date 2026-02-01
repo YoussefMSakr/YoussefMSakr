@@ -44,18 +44,14 @@ Advanced SQL analysis on 100K+ transaction records using CTEs, window functions,
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
----
 
 ## 📫 Let's Connect
 
 - 📧 Email: yousssseefssakr@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: https://www.linkedin.com/in/youssef-mohamed-36bba4282 
 - 📍 Location: Cairo, Egypt
 
 ---
